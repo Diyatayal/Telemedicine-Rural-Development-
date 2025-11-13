@@ -30,5 +30,5 @@ python -m nltk.downloader stopwords punkt
 ### 4️⃣ Run the pipeline
 ```bash
 
-python telemedicine_pipeline.py
+python main.py
 ```
